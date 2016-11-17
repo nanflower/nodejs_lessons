@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nanflower",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "express": "^4.14.0",
+    "superagent": "^2.3.0"
+  }
 }
